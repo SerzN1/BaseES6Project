@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+temp
+
+# Dependency directories
+node_modules
+jspm_packages
+.npm
+.DS_Store
